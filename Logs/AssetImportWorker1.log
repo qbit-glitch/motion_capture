@@ -2986,3 +2986,19 @@ Memory consumption went from 167.0 MB to 161.5 MB.
 Total: 4.401250 ms (FindLiveObjects: 0.272500 ms CreateObjectMapping: 0.098583 ms MarkObjects: 2.577708 ms  DeleteObjects: 1.452250 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 0.20 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5985 unused Assets / (5.3 MB). Loaded Objects now: 6846.
+Memory consumption went from 158.3 MB to 152.9 MB.
+Total: 5.130292 ms (FindLiveObjects: 0.279500 ms CreateObjectMapping: 0.106333 ms MarkObjects: 3.234333 ms  DeleteObjects: 1.509917 ms)
+
+Prepare: number of updated asset objects reloaded= 0
